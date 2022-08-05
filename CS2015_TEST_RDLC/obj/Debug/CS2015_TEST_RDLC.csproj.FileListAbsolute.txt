@@ -1,0 +1,15 @@
+C:\Users\devel\Desktop\CS2015_TEST_RDLC\CS2015_TEST_RDLC\bin\Debug\CS2015_TEST_RDLC.exe.config
+C:\Users\devel\Desktop\CS2015_TEST_RDLC\CS2015_TEST_RDLC\bin\Debug\CS2015_TEST_RDLC.exe
+C:\Users\devel\Desktop\CS2015_TEST_RDLC\CS2015_TEST_RDLC\bin\Debug\CS2015_TEST_RDLC.pdb
+C:\Users\devel\Desktop\CS2015_TEST_RDLC\CS2015_TEST_RDLC\obj\Debug\CS2015_TEST_RDLC.Form1.resources
+C:\Users\devel\Desktop\CS2015_TEST_RDLC\CS2015_TEST_RDLC\obj\Debug\CS2015_TEST_RDLC.Properties.Resources.resources
+C:\Users\devel\Desktop\CS2015_TEST_RDLC\CS2015_TEST_RDLC\obj\Debug\CS2015_TEST_RDLC.csproj.GenerateResource.Cache
+C:\Users\devel\Desktop\CS2015_TEST_RDLC\CS2015_TEST_RDLC\obj\Debug\CS2015_TEST_RDLC.exe
+C:\Users\devel\Desktop\CS2015_TEST_RDLC\CS2015_TEST_RDLC\obj\Debug\CS2015_TEST_RDLC.pdb
+C:\Users\devel\Desktop\CS2015_TEST_RDLC\CS2015_TEST_RDLC\obj\Debug\CS2015_TEST_RDLC.Form2.resources
+C:\Users\devel\Desktop\CS2015_TEST_RDLC\CS2015_TEST_RDLC\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\devel\Desktop\CS2015_TEST_RDLC\CS2015_TEST_RDLC\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\devel\Desktop\CS2015_TEST_RDLC\CS2015_TEST_RDLC\obj\Debug\CS2015_TEST_RDLC.csproj.AssemblyReference.cache
+C:\Users\devel\Desktop\CS2015_TEST_RDLC\CS2015_TEST_RDLC\obj\Debug\CS2015_TEST_RDLC.csproj.SuggestedBindingRedirects.cache
+C:\Users\devel\Desktop\CS2015_TEST_RDLC\CS2015_TEST_RDLC\obj\Debug\CS2015_TEST_RDLC.csproj.CoreCompileInputs.cache
+C:\Users\devel\Desktop\CS2015_TEST_RDLC\CS2015_TEST_RDLC\obj\Debug\CS2015_TEST_RDLC.csproj.CopyComplete
